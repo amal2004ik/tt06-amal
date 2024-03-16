@@ -30,8 +30,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "sum"
-  uo[1]: "carry"
+  uo[0]: "s"
+  uo[1]: "c"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
